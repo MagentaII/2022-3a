@@ -9,3 +9,5 @@
 
 ![nkust](nkust.png "nkust")
 
+- [ ] todo list
+- [x] done
