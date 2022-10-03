@@ -14,3 +14,6 @@
 
 
 # PERT/CPM 圖
+![NKUST](PERT.png "PERT")
+
+
