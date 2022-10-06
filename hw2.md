@@ -17,6 +17,6 @@
 ![NKUST](PERT.png "PERT")
 
 # 甘特圖
-![Gantt Chart](個人作業-甘特圖.png "Gantt Chart")
+![Gantt Chart](Gantt Chart.png "Gantt Chart")
 
 
